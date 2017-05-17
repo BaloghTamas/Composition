@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDefault">#3F51B5</color>
+    <color name="colorPrimaryDarkDefault">#303F9F</color>
+    <color name="colorAccentDefault">#FF4081</color>
+
+    <color name="colorPrimaryBlue">#00BCD4</color>
+    <color name="colorPrimaryDarkBlue">#0097A7</color>
+    <color name="colorAccentBlue">#009688</color>
+    <color name="colorPrimaryTextBlue">#212121</color>
+    <color name="colorSecondaryTextBlue">#757575</color>
+
+    <color name="colorMenuDisabled">#44FFFFFF</color>
+    <color name="colorMenuEnabled">#FFFFFFFF</color>
+
+    <color name="cardBackgroundPrimary">#FFFFFF</color>
+    <color name="cardBackgroundSecondary">#F5FBFB</color>
+
+    <color name="cardTextPrimary">#000000</color>
+    <color name="cardTextSecondary">#BFBFBF</color>
+    <color name="cardHeaderBackgroundColor">#F5F5F5</color>
+    <color name="cardHeaderTextColor">#9D9D9D</color>
+
+
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Deliveries</string>
+    <string name="menu_all">All</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_receive">Receive</string>
+    <string name="header_today">Today</string>
+    <string name="header_next_week">Next week</string>
+    <string name="li_from">from</string>
+    <string name="li_price">price</string>
+    <string name="li_date">date</string>
+    <string name="li_status">status</string>
+    <string name="li_to">to</string>
+</resources>
