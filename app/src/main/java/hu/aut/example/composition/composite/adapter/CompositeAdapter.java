@@ -37,8 +37,7 @@ public abstract class CompositeAdapter<T> extends RecyclerView.Adapter<RecyclerV
                 delegate.onBindViewHolder(holder, position);
             }
         }
-        Log.e(TAG, "No adapter found for position:" + position + " with view type:" + getItemViewType(position));
-
+    
     }
 
     public abstract T getItem(int position);
